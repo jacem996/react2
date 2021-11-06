@@ -1,0 +1,13 @@
+.title{
+    background-color: beige;
+    font-size: medium;
+    margin-bottom: 1px;
+}
+.red{
+    text-align: center;
+    font-size: x-large;
+}
+.img{
+    width: 50%;
+    height: 50%;
+}
